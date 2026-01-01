@@ -1,0 +1,7 @@
+{
+  "name": "FitPulse Pro",
+  "description": "Yapay zeka destekli, modern spor salonu yönetim ve üye takip sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
